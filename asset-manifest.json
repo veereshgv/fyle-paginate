@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fyle-paginate/static/css/main.d7c66362.css",
+    "main.js": "/fyle-paginate/static/js/main.caf95cf4.js",
+    "static/js/787.ce4665eb.chunk.js": "/fyle-paginate/static/js/787.ce4665eb.chunk.js",
+    "index.html": "/fyle-paginate/index.html",
+    "main.d7c66362.css.map": "/fyle-paginate/static/css/main.d7c66362.css.map",
+    "main.caf95cf4.js.map": "/fyle-paginate/static/js/main.caf95cf4.js.map",
+    "787.ce4665eb.chunk.js.map": "/fyle-paginate/static/js/787.ce4665eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7c66362.css",
+    "static/js/main.caf95cf4.js"
+  ]
+}
